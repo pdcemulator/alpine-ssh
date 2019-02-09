@@ -1,4 +1,4 @@
-FROM multiarch/alpine:armhf-v3.9
+FROM multiarch/alpine:armhf-v3.8
 MAINTAINER pdcemulator <pdcemulator@gmx.de>
 
 # build ARM on AMD64
